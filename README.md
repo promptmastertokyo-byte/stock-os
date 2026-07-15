@@ -1,2 +1,81 @@
-# stock-os
-AI-powered stock research and investment knowledge system for company analysis, scoring, review, and continuous improvement.
+# Stock OS
+
+AIを活用して日本株の企業分析・採点・継続レビューを行うための投資ナレッジ基盤です。
+
+> **目的**：買い推奨を自動生成することではなく、調査対象の優先順位を上げ、判断根拠と検証結果を継続的に蓄積すること。
+
+## 基本フロー
+
+```text
+Yahoo!ファイナンス / 企業IR / 決算資料 / 四季報
+                    ↓
+              情報の取得・確認
+                    ↓
+           Stock OS 95点チェック
+                    ↓
+              AIによる一次分析
+                    ↓
+              別AIによるレビュー
+                    ↓
+           人間による最終判断・承認
+                    ↓
+         GitHubへ保存・履歴化・再検証
+```
+
+## ディレクトリ
+
+```text
+stock-os/
+├── README.md
+├── AGENTS.md
+├── checklist/
+│   └── stock-review-checklist.md
+├── rules/
+│   ├── scoring-rules.md
+│   ├── buy-rules.md
+│   └── sell-rules.md
+├── templates/
+│   ├── company-analysis-template.md
+│   ├── earnings-review-template.md
+│   └── post-review-template.md
+├── analysis/
+├── watchlist/
+│   └── watchlist.md
+├── knowledge/
+├── reviews/
+├── reports/
+├── prompts/
+└── automation/
+```
+
+## 運用原則
+
+1. 数値には必ず取得日と出典を付ける。
+2. Yahoo!ファイナンスだけで断定せず、重要事項は企業IRで一次確認する。
+3. 企業の質と現在株価の割安性を別々に評価する。
+4. 95点以上は「買い」ではなく「優先調査候補」とする。
+5. 分析しなかった銘柄・見送った銘柄も結果を追跡する。
+6. 予想と実績を半年後・1年後に検証し、採点基準を改善する。
+7. AIの出力は投資助言として扱わず、人間が最終判断する。
+
+## 初期分析対象
+
+- 4063 信越化学工業
+- 4755 楽天グループ
+- 285A キオクシアホールディングス
+- 8035 東京エレクトロン
+- 6146 ディスコ
+
+## スコアの読み方
+
+| 点数 | 意味 |
+|---:|---|
+| 95–100 | 最優先で深掘りする高品質候補 |
+| 90–94 | 優良候補。価格とリスクを確認 |
+| 80–89 | 条件付き候補。弱点の改善待ち |
+| 70–79 | 監視対象。投資仮説の確度不足 |
+| 0–69 | 原則見送り、または特殊事情の検証対象 |
+
+## 注意
+
+このリポジトリは個人研究用です。将来の株価や利益を保証せず、特定銘柄の売買を推奨するものではありません。公開リポジトリには、保有数量・取得価格・資産額などの個人情報を保存しないでください。
