@@ -1,0 +1,27 @@
+name: Validate analyses
+
+on:
+  pull_request:
+    paths:
+      - "analysis/**"
+      - "automation/validate_analysis.py"
+      - "rules/scoring-rules.md"
+      - "templates/company-analysis-template.md"
+  push:
+    branches: [main]
+    paths:
+      - "analysis/**"
+      - "automation/validate_analysis.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 automation/validate_analysis.py analysis
