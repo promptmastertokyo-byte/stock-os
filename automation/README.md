@@ -8,6 +8,9 @@
 - `architecture.md`: MCPにする機能と通常スクリプトにする機能の境界
 - `review-schedule.md`: 決算・IR監視と半年後／1年後レビューの起票設計
 - `validate_analysis.py`: 分析Markdownの構造、日付、配点、プライバシーを静的検査
+- `codex-review.sh`: 【ローカル実行用】Codex CLIによる別モデルレビュー（workflow step 8）。
+  クラウドRoutine（平日9:00 JSTの分析push）の後に実行し、`reviews/model-reviews/` に出力する。
+  クラウド環境からはOpenAI APIへ到達できないため、必ずローカルで実行する
 
 ## 検証
 
