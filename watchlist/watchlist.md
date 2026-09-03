@@ -6,7 +6,7 @@
 |---:|---|---|---|---|---|
 |1|4063|信越化学工業|半導体材料・化学|監視（56点・PER/PBR過去レンジ上限付近と判明）|残タスクは同業比較（analysis/4063-shin-etsu.md、reviews/4063/2026-07-24-earnings.md）|
 |2|8035|東京エレクトロン|半導体製造装置|監視（57点・AMAT比でも割高感を確認）|残タスクはEPS・ROIC（analysis/8035-tokyo-electron.md、reviews/8035/2026-07-30-earnings.md）|
-|3|6146|ディスコ|半導体加工装置|監視（62点・CF・還元方針確認済み）|現金残高・同業比較が残タスク（analysis/6146-disco.md、reviews/6146/2026-07-23-earnings.md）|
+|3|6146|ディスコ|半導体加工装置|監視（64点・世界シェア7-8割を確認）|現金残高・PER/PBR過去レンジが残タスク（analysis/6146-disco.md、reviews/6146/2026-07-23-earnings.md）|
 |4|6861|キーエンス|FA・センサー|監視（67点・11社中トップ）|決算短信原本・現金残高・還元方針が残タスク（analysis/6861-keyence.md、reviews/6861/2026-07-28-earnings.md）|
 |5|6098|リクルートHD|HRテック|監視（62点・自己資本圧縮要因は資本効率化戦略と判明）|残タスクは為替影響・過去レンジ（analysis/6098-recruit-hd.md、reviews/6098/2026-08-05-earnings.md）|
 |6|6920|レーザーテック|半導体検査装置|監視（45点・株価下落継続でPBR改善傾向）|CF・還元方針・過去レンジが残タスク（analysis/6920-lasertec.md、reviews/6920/2026-08-06-earnings.md）|
