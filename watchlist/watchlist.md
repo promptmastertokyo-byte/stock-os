@@ -12,7 +12,7 @@
 |6|6920|レーザーテック|半導体検査装置|監視（45点・株価下落継続でPBR改善傾向）|CF・還元方針・過去レンジが残タスク（analysis/6920-lasertec.md、reviews/6920/2026-08-06-earnings.md）|
 |7|7741|HOYA|精密・医療|監視（56点）|Q1純利+10%を一時要因なしで達成。中間期実績との整合確認が次の焦点（analysis/7741-hoya.md、reviews/7741/2026-07-31-earnings.md）|
 |8|6758|ソニーグループ|エンタメ・半導体|監視（63点・ROE確認済み）|決算短信原本・EPS確認で深掘り昇格を判定（analysis/6758-sony-group.md、reviews/6758/2026-07-31-earnings.md）|
-|9|285A|キオクシアHD|NAND・SSD|**原則見送り（33点）**|PER38.87倍・PBR15.41倍へ低下も事業の構造的懸念は不変（analysis/285a-kioxia.md、reviews/285A/2026-07-31-earnings.md）|
+|9|285A|キオクシアHD|NAND・SSD|**原則見送り（38点）**|FCF大幅プラス・有利子負債▲33%も事業の構造的懸念は不変（analysis/285a-kioxia.md、reviews/285A/2026-07-31-earnings.md）|
 |10|4755|楽天グループ|EC・金融・通信|監視（39点・決算期は12月で他社と異なる）|FY2026/12 Q1以降のモバイル黒字継続確認が最優先（analysis/4755-rakuten-group.md）|
 |11|4519|中外製薬|医薬品|監視（62点・Core営利率49.5%は他社3倍と確認）|パイプライン詳細・過去レンジが残タスク。決算期12月（analysis/4519-chugai-pharma.md）|
 
