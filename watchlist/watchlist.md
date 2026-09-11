@@ -9,7 +9,7 @@
 |3|6146|ディスコ|半導体加工装置|監視（64点・世界シェア7-8割を確認）|現金残高・PER/PBR過去レンジが残タスク（analysis/6146-disco.md、reviews/6146/2026-07-23-earnings.md）|
 |4|6861|キーエンス|FA・センサー|監視（67点・11社中トップ）|決算短信原本・現金残高・還元方針が残タスク（analysis/6861-keyence.md、reviews/6861/2026-07-28-earnings.md）|
 |5|6098|リクルートHD|HRテック|監視（62点・自己資本圧縮要因は資本効率化戦略と判明）|残タスクは為替影響・過去レンジ（analysis/6098-recruit-hd.md、reviews/6098/2026-08-05-earnings.md）|
-|6|6920|レーザーテック|半導体検査装置|監視（45点・株価下落継続でPBR改善傾向）|CF・還元方針・過去レンジが残タスク（analysis/6920-lasertec.md、reviews/6920/2026-08-06-earnings.md）|
+|6|6920|レーザーテック|半導体検査装置|監視（49点・CF・還元方針確認済み）|過去レンジ・顧客集中の推移が残タスク（analysis/6920-lasertec.md、reviews/6920/2026-08-06-earnings.md）|
 |7|7741|HOYA|精密・医療|監視（56点）|Q1純利+10%を一時要因なしで達成。中間期実績との整合確認が次の焦点（analysis/7741-hoya.md、reviews/7741/2026-07-31-earnings.md）|
 |8|6758|ソニーグループ|エンタメ・半導体|監視（64点・EPS成長が純利益成長を上回る）|決算短信原本の確認で深掘り昇格を判定（analysis/6758-sony-group.md、reviews/6758/2026-07-31-earnings.md）|
 |9|285A|キオクシアHD|NAND・SSD|**原則見送り（39点）**|ROE51.91%（ピーク影響含む）も事業の構造的懸念は不変。残タスクは希薄化履歴（analysis/285a-kioxia.md、reviews/285A/2026-07-31-earnings.md）|
