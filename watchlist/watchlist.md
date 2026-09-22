@@ -8,7 +8,7 @@
 |2|8035|東京エレクトロン|半導体製造装置|監視（57点・EPS推定・10/1株式分割予定を確認）|残タスクはROIC（analysis/8035-tokyo-electron.md、reviews/8035/2026-07-30-earnings.md）|
 |3|6146|ディスコ|半導体加工装置|監視（64点・現金残高1,845.75億円を確認）|EPS・有利子負債・PER/PBR過去レンジが残タスク（analysis/6146-disco.md、reviews/6146/2026-07-23-earnings.md）|
 |4|6861|キーエンス|FA・センサー|監視（67点・11社中トップ）|決算短信原本・現金残高・還元方針が残タスク（analysis/6861-keyence.md、reviews/6861/2026-07-28-earnings.md）|
-|5|6098|リクルートHD|HRテック|監視（62点・自己資本圧縮要因は資本効率化戦略と判明）|残タスクは為替影響・過去レンジ（analysis/6098-recruit-hd.md、reviews/6098/2026-08-05-earnings.md）|
+|5|6098|リクルートHD|HRテック|監視（62点・円安が営業利益を押し上げと確認）|残タスクは為替寄与額の定量化・PER過去レンジ（analysis/6098-recruit-hd.md、reviews/6098/2026-08-05-earnings.md）|
 |6|6920|レーザーテック|半導体検査装置|監視（49点・CF・還元方針確認済み）|過去レンジ・顧客集中の推移が残タスク（analysis/6920-lasertec.md、reviews/6920/2026-08-06-earnings.md）|
 |7|7741|HOYA|精密・医療|監視（56点）|Q1純利+10%を一時要因なしで達成。中間期実績との整合確認が次の焦点（analysis/7741-hoya.md、reviews/7741/2026-07-31-earnings.md）|
 |8|6758|ソニーグループ|エンタメ・半導体|監視（64点・EPS成長が純利益成長を上回る）|決算短信原本の確認で深掘り昇格を判定（analysis/6758-sony-group.md、reviews/6758/2026-07-31-earnings.md）|
